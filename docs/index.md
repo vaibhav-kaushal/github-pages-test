@@ -1,4 +1,4 @@
-Table of contents:
+# Table of contents:
 
  1. [test page 1](testpage1.md)
  2. [test page 2](testpage2.md)
@@ -11,3 +11,20 @@ Table of contents:
         2. [test nest page 6](testfolder/tnp3/tnp6.md)
     2. [test nest page 4](testfolder/tnp4.md)
  5. [test page 3](testpage3.md)
+
+## H2
+ 
+ Normal line
+
+### H3
+
+Some line `preformatted inline text` **bold** *italics* ***bold italics***. 
+
+```php
+<?php 
+ echo "Some PHP code";
+```
+
+----
+
+This sentence should have a line above it.
